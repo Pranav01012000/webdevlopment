@@ -2,7 +2,7 @@ body{
 font-family: 'Anton', sans-serif;
 background-image: url(https://c1.wallpaperflare.com/preview/294/960/948/university-student-graduation-photo-hats.jpg);
 background-repeat: no-repeat;
-background-size: cover;
+background-size:auto;
 color:#f9faf5;
 text-align: center;
 /*border:20px solid #0acaf5;
